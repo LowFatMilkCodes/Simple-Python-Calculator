@@ -1,6 +1,6 @@
 # Simple-Python-Calculator
 Simple Calculator 
-#Can do the following mathimatical operations
+Can do the following mathimatical operations
 Addition
 Subtraction
 Multiplication
